@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+textblob
+pydantic
+python-multipart
